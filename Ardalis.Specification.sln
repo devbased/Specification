@@ -43,6 +43,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specification.EntityFramewo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specification.EntityFramework6", "Specification.EntityFramework6", "{327AEBD6-C8A6-4851-BA42-632F8014CFC5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Benchmark.Specification", "benchmark\Benchmark.Specification\Benchmark.Specification.csproj", "{FB1E02D9-B870-47FA-880F-85166A0F8BAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{4BEB4DC4-DE33-4DF1-8A2F-CE76C1D72A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BEB4DC4-DE33-4DF1-8A2F-CE76C1D72A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BEB4DC4-DE33-4DF1-8A2F-CE76C1D72A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB1E02D9-B870-47FA-880F-85166A0F8BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB1E02D9-B870-47FA-880F-85166A0F8BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB1E02D9-B870-47FA-880F-85166A0F8BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB1E02D9-B870-47FA-880F-85166A0F8BAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
